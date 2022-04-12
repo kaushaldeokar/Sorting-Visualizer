@@ -5,6 +5,8 @@
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+- 
+[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
